@@ -1,5 +1,5 @@
 var debug = false;
-var BackEnd = "https://proyecto2-backend.herokuapp.com/"
+var BackEnd = "https://proyecto2-cuk.herokuapp.com/"
 
 if (debug) {
     BackEnd = "http://127.0.0.1:5000/"
